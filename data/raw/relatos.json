@@ -1,0 +1,57 @@
+[
+  {
+    "relato_id": "REL-001",
+    "chamado_id": "TI-582041",
+    "responsavel": "Carlos Almeida",
+    "data_atualizacao": "2026-11-12T17:10:00-03:00",
+    "texto": "A equipe verificou o servidor de produção. O sistema financeiro continua indisponível. Foi solicitado apoio da infraestrutura."
+  },
+  {
+    "relato_id": "REL-002",
+    "chamado_id": "TI-582041",
+    "responsavel": "Carlos Almeida",
+    "data_atualizacao": "2026-11-15T10:00:00-03:00",
+    "texto": "A equipe de infraestrutura prestou suporte e formatou os servidores. Serviços ativos e de volta a produção. Agradeço pelo suporte."
+  },
+  {
+    "relato_id": "REL-003",
+    "chamado_id": "TK-395902",
+    "responsavel": "Rafaella Ville",
+    "data_atualizacao": "2026-09-11T20:20:00-03:00",
+    "texto": "Equipe responsável pelo sistema de inventários está atuando no chamado. Previsão de atualização em até 2 dias úteis a partir deste relato."
+  },
+  {
+    "relato_id": "REL-004",
+    "chamado_id": "TI-944823",
+    "responsavel": "Guilherme Alkimin",
+    "data_atualizacao": "2026-11-01T12:33:12-03:00",
+    "texto": "Chamado em análise comercial. Time de pré-vendas está elaborando a proposta comercial."
+  },
+  {
+    "relato_id": "REL-005",
+    "chamado_id": "",
+    "responsavel": "Maria das Dores",
+    "data_atualizacao": "2026-11-05T09:01:22-03:00",
+    "texto": "Migração do hipervisor em andamento. Segue aguardando evolução da equipe de operações."
+  },
+  {
+    "relato_id": "REL-006",
+    "chamado_id": "TI-782903",
+    "responsavel": "Pilar Ramos",
+    "data_atualizacao": "2026-11-12T08:42:01-03:00",
+    "texto": ""
+  },
+  {
+    "relato_id": "REL-007",
+    "chamado_id": "TI-582041",
+    "responsavel": "Kakakoto Sujima",
+    "data_atualizacao": "2026-02-23T10:21:04-03:00",
+    "texto": "Em análise pelo cliente."
+  },
+  {
+    "relato_id": "REL-008",
+    "chamado_id": "TI-582041",
+    "responsavel": "Carlos Almeida",
+    "texto": "Problema solucionado e chamado encerrado."
+  }
+]

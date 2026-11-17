@@ -1,0 +1,6 @@
+chamado_id,cliente_id,solicitante,titulo,descricao,data_abertura,ultima_atualizacao,prazo_sla,status,prioridade,impacto_servico,sla_pausado
+TI-582041,CLI-001,Mariana Costa,Servidor de produção indisponível,Sistema financeiro inacessível,2026-11-10T08:30:00-03:00,2026-11-12T15:20:00-03:00,2026-11-14T08:30:00-03:00,em_andamento,alta,indisponivel,false
+TK-395902,CLI-002,Robert Renan,Alteração de inventário do servidor Prometeus-230,Alteração de inventário obsoleto,2026-09-11T09:30:00-03:00,2026-09-11T14:15:20-03:00,2026-11-15T12:00:00-03:00,em_andamento,baixa,sem_impacto,false
+TI-782903,CLI-003,Lucas Ferreira,Falha de acesso ao sistema,Usuários não conseguem acessar o portal,2026-11-13T14:00:00-03:00,2026-11-12T10:00:00-03:00,2026-11-15T18:00:00-03:00,aberto,alta,degradado,false
+ABC-77,CLI-004,Paulo Lima,Erro no portal,Portal apresentando falhas,2026-11-13T09:00:00-03:00,data-invalida,2026-11-16T18:00:00-03:00,aberto,alta,degradado,false
+TK-395902,CLI-002,Robert Renan,Inventário do servidor,Atualização de inventário,2026-11-12T09:00:00-03:00,2026-11-12T11:00:00-03:00,2026-11-15T12:00:00-03:00,em_andamento,baixa,sem_impacto,false
